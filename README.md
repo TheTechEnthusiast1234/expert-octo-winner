@@ -44,7 +44,7 @@ Shortcuts I Frequently Use:
 - Ctrl-W (Closes a Tab)
 - Ctrl-Shift-T (Reopens a Closed Tab)
 
-Shortcuts I Would Like to Start Using
+Shortcuts I Would Like to Start Using:
 - F11/Win-Up (Maximizes Window)
 - Win-Tab (Opens Task View)
 - Win-X (Opens Quick Link Menu)
