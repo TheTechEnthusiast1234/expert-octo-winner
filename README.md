@@ -49,6 +49,10 @@ Shortcuts I Would Like to Start Using:
 - Win-Tab (Opens Task View)
 - Win-X (Opens Quick Link Menu)
 
+[CLI Commands] (docs/cli.md)
+
+
+
 
 
 
